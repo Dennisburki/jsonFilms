@@ -1,0 +1,18 @@
+.text {
+    font-size: 0.7rem;
+    overflow: hidden;
+    text-overflow: ellipsis;      
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    background-color: black;
+}
+
